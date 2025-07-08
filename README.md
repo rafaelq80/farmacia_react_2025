@@ -57,6 +57,7 @@ Funcionalidades:
 | **Vite**             | Build tool rápido para projetos React | [Vite](https://vite.dev/)                                |
 | **Phosphor Icons**   | Ícones                                | [Phosphor Icons](https://phosphoricons.com/)             |
 | **React Spinners**   | Animações de carregamento (loaders)   | [React Spinners](https://www.davidhu.io/react-spinners/) |
+| **React JS Popup**   | Modal                                 | [React JS Popup](https://react-popup.elazizi.com/)       |
 
 <br />
 
