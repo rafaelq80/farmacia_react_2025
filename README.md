@@ -8,12 +8,12 @@
 <br /> 
 
 <div align="center">   
-    <img src="https://img.shields.io/github/languages/top/rafaelq80/farmacia_react?style=flat-square" />
-    <img src="https://img.shields.io/github/repo-size/rafaelq80/farmacia_react?style=flat-square" />   
-     <img src="https://img.shields.io/github/languages/count/rafaelq80/farmacia_react?style=flat-square" />
-    <img src="https://img.shields.io/github/last-commit/rafaelq80/farmacia_react?style=flat-square" />
-    <img src="https://img.shields.io/github/issues/rafaelq80/farmacia_react?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/rafaelq80/farmacia_react?style=flat-square" />
+    <img src="https://img.shields.io/github/languages/top/rafaelq80/farmacia_react_2025?style=flat-square" />
+    <img src="https://img.shields.io/github/repo-size/rafaelq80/farmacia_react_2025?style=flat-square" />   
+     <img src="https://img.shields.io/github/languages/count/rafaelq80/farmacia_react_2025?style=flat-square" />
+    <img src="https://img.shields.io/github/last-commit/rafaelq80/farmacia_react_2025?style=flat-square" />
+    <img src="https://img.shields.io/github/issues/rafaelq80/farmacia_react_2025?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/rafaelq80/farmacia_react_2025?style=flat-square" />
     <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square" /> 
 </div>
 
@@ -75,13 +75,13 @@ Antes de iniciar o projeto, certifique-se de ter instalado:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/rafaelq80/farmacia_react.git
+git clone https://github.com/rafaelq80/farmacia_react_2025.git
 ```
 
 2. **Acesse a pasta do projeto:**
 
 ```bash
-cd farmacia_react
+cd farmacia_react_2025
 ```
 
 3. **Instale as dependências:**
